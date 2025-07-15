@@ -78,14 +78,6 @@ This repository contains a comprehensive SQL-based analysis of sales, products, 
 
 ---
 
-## 📎 How to Use
-
-1. Connect to your data warehouse (ensure `gold` schema exists).
-2. Run each SQL section incrementally to explore and validate.
-3. Deploy views `golden_report_customers` and `golden_report_product` for dashboard/reporting tools.
-
----
-
 ## 📘 Learning Outcomes
 
 - Ability to extract actionable insights from raw data.
